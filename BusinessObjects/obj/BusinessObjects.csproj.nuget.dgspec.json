@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\BusinessObjects\\BusinessObjects.csproj": {}
+    "E:\\22-6\\xunit-with-moq-and-ci\\BusinessObjects\\BusinessObjects.csproj": {}
   },
   "projects": {
-    "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\BusinessObjects\\BusinessObjects.csproj": {
+    "E:\\22-6\\xunit-with-moq-and-ci\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "E:\\22-6\\xunit-with-moq-and-ci\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "E:\\22-6\\xunit-with-moq-and-ci\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\BusinessObjects\\obj\\",
+        "outputPath": "E:\\22-6\\xunit-with-moq-and-ci\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

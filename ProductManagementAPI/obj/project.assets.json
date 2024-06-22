@@ -8619,11 +8619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\ProductManagementAPI\\ProductManagementAPI.csproj",
+      "projectUniqueName": "E:\\22-6\\xunit-with-moq-and-ci\\ProductManagementAPI\\ProductManagementAPI.csproj",
       "projectName": "ProductManagementAPI",
-      "projectPath": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\ProductManagementAPI\\ProductManagementAPI.csproj",
+      "projectPath": "E:\\22-6\\xunit-with-moq-and-ci\\ProductManagementAPI\\ProductManagementAPI.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\ProductManagementAPI\\obj\\",
+      "outputPath": "E:\\22-6\\xunit-with-moq-and-ci\\ProductManagementAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8641,8 +8641,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\Repositories\\Repositories.csproj": {
-              "projectPath": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\Repositories\\Repositories.csproj"
+            "E:\\22-6\\xunit-with-moq-and-ci\\Repositories\\Repositories.csproj": {
+              "projectPath": "E:\\22-6\\xunit-with-moq-and-ci\\Repositories\\Repositories.csproj"
             }
           }
         }

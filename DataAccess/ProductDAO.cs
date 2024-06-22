@@ -68,7 +68,7 @@ namespace DataAccess
         {
             try
             {
-                _context.Entry<Product>(p).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+                _context.Update(p);
                 _context.SaveChanges();
 
             }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\ProductManagementWebClient\\ProductManagementWebClient.csproj": {}
+    "E:\\22-6\\xunit-with-moq-and-ci\\ProductManagementWebClient\\ProductManagementWebClient.csproj": {}
   },
   "projects": {
-    "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\ProductManagementWebClient\\ProductManagementWebClient.csproj": {
+    "E:\\22-6\\xunit-with-moq-and-ci\\ProductManagementWebClient\\ProductManagementWebClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\ProductManagementWebClient\\ProductManagementWebClient.csproj",
+        "projectUniqueName": "E:\\22-6\\xunit-with-moq-and-ci\\ProductManagementWebClient\\ProductManagementWebClient.csproj",
         "projectName": "ProductManagementWebClient",
-        "projectPath": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\ProductManagementWebClient\\ProductManagementWebClient.csproj",
+        "projectPath": "E:\\22-6\\xunit-with-moq-and-ci\\ProductManagementWebClient\\ProductManagementWebClient.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\ProductManagementWebClient\\obj\\",
+        "outputPath": "E:\\22-6\\xunit-with-moq-and-ci\\ProductManagementWebClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

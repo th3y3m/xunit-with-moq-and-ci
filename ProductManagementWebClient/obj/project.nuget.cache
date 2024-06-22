@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nvm38ZnFWw8=",
+  "dgSpecHash": "+w0e3ZP7ZAI=",
   "success": true,
-  "projectFilePath": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\ProductManagementWebClient\\ProductManagementWebClient.csproj",
+  "projectFilePath": "E:\\22-6\\xunit-with-moq-and-ci\\ProductManagementWebClient\\ProductManagementWebClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

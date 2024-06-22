@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JeDYhWS1kLg=",
+  "dgSpecHash": "7riYH4HgWWU=",
   "success": true,
-  "projectFilePath": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\Repositories\\Repositories.csproj",
+  "projectFilePath": "E:\\22-6\\xunit-with-moq-and-ci\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

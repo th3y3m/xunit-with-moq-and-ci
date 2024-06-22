@@ -8421,11 +8421,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "E:\\22-6\\xunit-with-moq-and-ci\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\UnitTests\\UnitTests.csproj",
+      "projectPath": "E:\\22-6\\xunit-with-moq-and-ci\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\UnitTests\\obj\\",
+      "outputPath": "E:\\22-6\\xunit-with-moq-and-ci\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8443,8 +8443,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\DataAccess\\DataAccess.csproj"
+            "E:\\22-6\\xunit-with-moq-and-ci\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "E:\\22-6\\xunit-with-moq-and-ci\\DataAccess\\DataAccess.csproj"
             }
           }
         }

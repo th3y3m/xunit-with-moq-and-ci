@@ -66,5 +66,40 @@ namespace UnitTests
             Assert.NotNull(result);
             Assert.Equal(productId, result.ProductId);
         }
+
+        [Fact]
+        public void SaveProduct_AddsProduct()
+        {
+            var product = new Product { ProductId = 3, ProductName = "Test Product 3" };
+            var dao = new ProductDAO(mockContext.Object);
+
+            dao.SaveProduct(product);
+
+            mockSet.Verify(m => m.Add(It.IsAny<Product>()), Times.Once);
+            mockContext.Verify(m => m.SaveChanges(), Times.Once);
+        }
+
+        [Fact]
+        public void UpdateProduct_UpdatesProduct()
+        {
+            var product = new Product { ProductId = 1, ProductName = "Updated Product" };
+            var dao = new ProductDAO(mockContext.Object);
+
+            dao.UpdateProduct(product);
+
+            mockContext.Verify(m => m.SaveChanges(), Times.Once);
+        }
+
+        [Fact]
+        public void DeleteProduct_DeletesProduct()
+        {
+            var product = new Product { ProductId = 2, ProductName = "Test Product 2" };
+            var dao = new ProductDAO(mockContext.Object);
+
+            dao.DeleteProduct(product);
+
+            mockSet.Verify(m => m.Remove(It.IsAny<Product>()), Times.Once);
+            mockContext.Verify(m => m.SaveChanges(), Times.Once);
+        }
     }
 }

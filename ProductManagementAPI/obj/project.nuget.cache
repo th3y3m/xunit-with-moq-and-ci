@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ayfSl5znwMg=",
+  "dgSpecHash": "wMxsHwC28dw=",
   "success": true,
-  "projectFilePath": "E:\\C#\\Lab01_ProductManagement_Using ASP.NET Core Web API\\ProductManagementAPI\\ProductManagementAPI.csproj",
+  "projectFilePath": "E:\\22-6\\xunit-with-moq-and-ci\\ProductManagementAPI\\ProductManagementAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
