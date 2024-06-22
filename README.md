@@ -1,3 +1,5 @@
+[![Tesing with xUnit and Moq (CI applied)](https://github.com/th3y3m/xunit-with-moq-and-ci/actions/workflows/script-ci.yml/badge.svg)](https://github.com/th3y3m/xunit-with-moq-and-ci/actions/workflows/script-ci.yml)
+
 # Welcome to xunit-with-moq-and-ci Repository
 
 ## You will find in this repo the following stuff
